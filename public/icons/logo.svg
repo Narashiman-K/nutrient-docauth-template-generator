@@ -1,0 +1,7 @@
+<svg width="148" height="44" viewBox="0 0 148 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="28" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="white">
+    Nutrient
+  </text>
+  <circle cx="6" cy="6" r="4" fill="#c2b8ae"/>
+  <circle cx="142" cy="38" r="4" fill="#c2b8ae"/>
+</svg>
