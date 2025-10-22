@@ -14,6 +14,7 @@ A React-based web application for creating, editing, and generating documents us
 
 1. **Clone or navigate to the project directory**
    ```bash
+   clone "https://github.com/Narashiman-K/nutrient-docauth-template-generator.git"
    cd "nutrient-docauth-template-generator"
    ```
 
